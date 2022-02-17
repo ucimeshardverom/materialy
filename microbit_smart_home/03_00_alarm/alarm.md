@@ -1,4 +1,4 @@
-Title:   	Inteligentná klimatizácia
+Title:   	Inteligentný alarm
 Subtitle:   Smart Home Kit
 
 # Inteligentný alarm

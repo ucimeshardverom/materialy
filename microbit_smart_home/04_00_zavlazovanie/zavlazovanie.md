@@ -1,4 +1,4 @@
-Title:   	Inteligentná klimatizácia
+Title:   	Inteligentné zavlažovanie
 Subtitle:   Smart Home Kit
 
 # Inteligentné zavlažovanie

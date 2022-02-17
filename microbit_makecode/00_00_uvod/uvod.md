@@ -47,9 +47,7 @@ Po prejdení tohto tutoriálu budeš mať veľmi dobrý prehľad o tom, ako vyu�
 
 
 !!! info "BBC micro:bit na vyučovaní "
-    Pre väčšinu lekcií sme pripravili aj podporné materiály pre učiteľov (metodiku, prípadne prezentáciu a pracovné listy).
-    Na zobrazenie stačí na začiatku každej lekcie kliknúť na "Príručka pre učiteľa". Ak ale postupuješ podľa návodu
-    doma bez učiteľa, tak môžeš túto sekciu úplne odignorovať.
+    Prezentácie pre učiteľov na prvých 8 hodín s micro:bitmi nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).
 
 !!! primary "Autor"
 	Autorom tohto materiálu je **Marek Mansell**, ktorý spolu s kolegami zo združenia SPy pripravuje otvorene licencované materiály. Na recenzovaní sa podieľajú **PaedDr. Eva Klimeková, PhD.**, **Nika Klimová** a **Bibiána Kleinová**.
