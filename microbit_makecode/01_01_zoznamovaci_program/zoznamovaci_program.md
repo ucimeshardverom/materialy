@@ -145,3 +145,6 @@ Niektoré z pinov (kolíkov) sú označené:
 
 ### Zhrnutie lekcie
 V tejto lekcii sme sa zoznámili s micro:bitom pomocou zoznamovacieho programu a prešli sme si všetky jeho súčiastky. V ďalšej lekcii si vytvoríme v prostredí MakeCode prvý micro:bit program – digitálnu menovku, ktorá bude zobrazovať naše meno.
+
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).

@@ -140,3 +140,5 @@ V tejto lekcii sme sa naučili používať tlačidlá micro:bitu v našich progr
 keďže tlačidlá sú jedným z najčastejšie používaných elektronických komponenetov. Nie je to však jediný spôsob, akým vieme
 micro:bitu povedať, aby niečo spravil – už v ďalšej lekcii sa pozrieme, ako ovládať micro:bit pomocou pohybu.
 
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).

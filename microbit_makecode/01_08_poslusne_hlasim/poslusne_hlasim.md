@@ -104,3 +104,6 @@ _5VE92gaUUd6q
         a povie ho hráčom. Každý hráč vidí zvyšné dve čísla (okrem svojho). Napr.: Hráči si vytiahnu čísla 2, 3 a 5.
         Rozhodca oznámi číslo 30. Keďže hráč číslo 1 vidí čísla svojich spoluhráčov (3 a 5), správne odpovie číslo 2,
         keďže 2x3x5=30.
+
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).

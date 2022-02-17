@@ -181,3 +181,6 @@ sme si vyskúšali generovať náhodné čísla a využiť ich pri tvorbe digit�
     * Kde sa na micro:bite nachádza akcelerometer a gyroskop?
     * Akým príkazom v prostredí MakeCode generujeme náhodné čísla?
     * Kde všade v každodennom živote sa využívajú senzory zrýchlenia a naklonenia?
+
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).

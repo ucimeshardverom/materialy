@@ -184,3 +184,6 @@ obrázky atď.
     *   Aký je rozdiel medzi RAM a FLASH pamäťou?
     *   Ukladajú sa premenné do RAM pamäte alebo do FLASH pamäte?
     *   Ako vytvorím novú premennú v prostredí MakeCode?
+
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).

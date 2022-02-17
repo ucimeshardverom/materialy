@@ -108,3 +108,5 @@ Výsledok – krokomer pripevnený papierovou lepiacou páskou
     *   Koľko krokov by mal človek denne spraviť?
     *   Čo hrozí človeku, ktorý sa dostatočne nehýbe?
 
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).

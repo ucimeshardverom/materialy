@@ -187,3 +187,6 @@ _gHx19V3wU6RT
     
 ### Zhrnutie lekcie
 V tejto lekcii sme si naprogramovali našu "digitálnu menovku". Ak ju chceš teraz použiť, môžeš micro:bit odpojiť od USB kábla a pripojiť k micro:bitu batériu. Aj po pripojení k batérii tvoj program zostane uložený na micro:bite a začne sa automaticky vykonávať.
+
+!!! info "Prezentácia k tejto lekcii"
+    Prezentáciu pre učiteľov a učiteľky k tejto lekcii nájdete na stránke projektu [Informatika 2.0](https://informatika20.sk/).
